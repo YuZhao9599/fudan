@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="test0414">
+    <output-path>$PROJECT_DIR$/out/artifacts/test0414</output-path>
+    <root id="archive" name="test0414.war">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="TMSshopping" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="lib" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="TMSshopping/web/Web" />
+    </root>
+  </artifact>
+</component>
